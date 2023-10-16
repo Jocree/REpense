@@ -762,7 +762,10 @@ margin-bottom: -10%;
     margin-left: -50%;
 }
 
-
+#asdkf{
+    margin-right: 65%; 
+    margin-left: 11%;
+}
 
 /* USUARIO */
 
@@ -937,6 +940,16 @@ input[type="submit"] {
 
 }
 
+.meme{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#dfdfdf{
+    border-radius: 15px;
+    width: 20%;
+}
+
 
   /* responsividade */
 @media (min-width: 1600px)  and (max-width: 1600px){
@@ -947,7 +960,7 @@ input[type="submit"] {
         margin-left: -2%;
         text-align: end;
         border-radius: 15px;
-        height: 784px;
+        height: 790px;
     }
 
     #img01{
@@ -1245,18 +1258,34 @@ input[type="submit"] {
   }
 
   .crrtxtprdts{
-    margin-top: -30%;
-    margin-left: 43%; 
-    margin-right: 7%;
+    top: 25px;
+    margin-left: 15%; 
+    margin-right: 40%;
     color: rgba(252, 252, 252, 0.753);
+    position: absolute;
+}
+
+#asdkf{
+    margin-right: 70%;
 }
 
 .crrimg{
     width: 30%;
     border-radius: 15px;
-    margin-top: 20%;
+    margin-top: 5%;
     margin-left: -50%;
     vertical-align: middle;
+}
+
+.infads{
+    margin-top: 27.5%;
+    margin-left: 2.5%; 
+    line-break: auto;
+    color: rgba(252, 252, 252, 0.753);
+    margin-bottom: -15%;
+    position: absolute;
+    top: 50px;
+    font-size: x-small;
 }
 
 .inprdts{
