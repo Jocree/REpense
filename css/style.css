@@ -1277,6 +1277,24 @@ align-items: center;
     vertical-align: middle;
 }
 
+.crrbtn1{
+    margin-top: 30.5%;
+    margin-left: 2%;
+    width: 6%;
+    height: 6%;
+    border-radius: 10px;
+    background-color: #339F1D;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    border-color: rgba(0, 0, 0, 0);
+    font-size: 90%;
+    color: #ffffff;
+    font-size: medium;
+    border-color: rgba(0, 0, 0, 0.089);
+    border-style: solid;
+    position: absolute;
+    top: 50px;
+}
+
 .infads{
     margin-top: 27.5%;
     margin-left: 2.5%; 
